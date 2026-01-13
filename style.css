@@ -37,3 +37,11 @@ a {
     padding: 10px 30px 10px 30px;
     border-radius: 15px;
 }
+
+html {
+    scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+    width: 0px;
+}
