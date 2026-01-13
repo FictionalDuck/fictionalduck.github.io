@@ -1,5 +1,7 @@
 body {
-    background-color: #424549;
+    /* background-color: #424549; */
+    background-image: url('./img/tileable-pokemon.png');
+    background-size: 25%;
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
 }
